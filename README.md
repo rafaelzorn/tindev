@@ -14,6 +14,10 @@ Projeto realizado na semana OmniStack da Rocketseat.
 
 ## Frontend construído com
 
+![Screenshot 1](https://i.ibb.co/qBdVPsP/imagem-2.png)
+![Screenshot 2](https://i.ibb.co/3145Q3g/imagem-1.png)
+![Screenshot 3](https://i.ibb.co/bvTKGMS/imagem-3.png)
+
 ### Construído com
 
 -   [React](https://reactjs.org/)
