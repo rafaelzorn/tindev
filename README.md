@@ -27,6 +27,8 @@ Projeto realizado na semana OmniStack da Rocketseat.
 
 ## Mobile construído com
 
+![Screenshot 1](https://i.ibb.co/spfBwxY/imagem.png)
+
 ### Construído com
 
 -   [React Native](https://facebook.github.io/react-native/)
