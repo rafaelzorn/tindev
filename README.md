@@ -51,7 +51,7 @@ Project made on Rocketseat's OmniStack week.
 
 ### Preview
 
-![tindev-mobile-prieview-1](./mobile-preview-1)
+![tindev-mobile-prieview-1](./mobile-preview-1.png)
 
 ### Running the project
 
