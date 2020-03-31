@@ -6,7 +6,7 @@
 
 ## Overview
 
-Project made on Rocketseat's OmniStack week.
+Application developed with React JS, React Native and NodeJS during Rocketseat's OmniStack week, it is a tinder to find developers.
 
 ## Backend
 
