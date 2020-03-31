@@ -1,37 +1,69 @@
-# tindev
+<p align="center">
+   <h3 align="center">tindev</h3>
+</p>
 
-Projeto realizado na semana OmniStack da Rocketseat.
+---
+
+## Overview
+
+Project made on Rocketseat's OmniStack week.
 
 ## Backend
 
-### Construído com
+-   Access the backend directory
+-   Install all dependencies using the command `yarn`
+-   Run `yarn dev`
+-   Fill the `.env` file
+-   Access `http://localhost:3333/`
 
--   [Node](https://nodejs.org/)
--   [Express](https://expressjs.com/)
--   [Mongoose](https://mongoosejs.com/)
--   [Socket.IO](https://socket.io/)
--   [Axios](https://github.com/axios/axios)
+### Used technologies
 
-## Frontend construído com
+-   Node
+-   Express
+-   Mongoose
+-   Socket.IO
+-   Other Node libs
 
-![Screenshot 1](https://i.ibb.co/qBdVPsP/imagem-2.png)
-![Screenshot 2](https://i.ibb.co/3145Q3g/imagem-1.png)
-![Screenshot 3](https://i.ibb.co/bvTKGMS/imagem-3.png)
+## Frontend
 
-### Construído com
+### Preview
 
--   [React](https://reactjs.org/)
--   [React Router DOM](https://reacttraining.com/react-router/web)
--   [Socket.IO](https://socket.io/)
--   [Axios](https://github.com/axios/axios)
+![tindev-desktop-prieview-1](./desktop-preview-1.png)
+![tindev-desktop-prieview-2](./desktop-preview-2.png)
+![tindev-desktop-prieview-3](./desktop-preview-3.png)
 
-## Mobile construído com
+### Running the project
 
-![Screenshot 1](https://i.ibb.co/spfBwxY/imagem.png)
+-   Access the frontend directory
+-   Install all dependencies using the command `yarn`
+-   Run `yarn start`
+-   Access `http://localhost:3000/`
 
-### Construído com
+### Used technologies
 
--   [React Native](https://facebook.github.io/react-native/)
--   [React Navigation](https://reactnavigation.org/)
--   [Socket.IO](https://socket.io/)
--   [Axios](https://github.com/axios/axios)
+-   React
+-   React Router DOM
+-   Socket.IO
+-   Axios
+-   Other React JS libs
+
+## Mobile
+
+### Preview
+
+![tindev-mobile-prieview-1](./mobile-preview-3.png)
+
+### Running the project
+
+-   You need to set up all the react-native enviroment
+-   Access the mobile directory
+-   Install all dependencies using the command `yarn`
+-   Run `react-native run-android` while you are running a Android emulator
+
+### Used technologies
+
+-   React Native
+-   React Navigation
+-   Socket.IO
+-   Axios
+-   Other React Native libs
