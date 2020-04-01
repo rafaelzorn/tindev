@@ -10,6 +10,10 @@ Application developed with React JS, React Native and NodeJS during Rocketseat's
 
 ## Backend
 
+### APIs
+
+- [Github API](https://api.github.com)
+
 ### Running the project
 
 -   Access the backend directory
