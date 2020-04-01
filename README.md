@@ -10,6 +10,8 @@ Application developed with React JS, React Native and NodeJS during Rocketseat's
 
 ## Backend
 
+### Running the project
+
 -   Access the backend directory
 -   Install all dependencies using the command `yarn`
 -   Run `yarn dev`
