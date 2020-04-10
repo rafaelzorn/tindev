@@ -18,8 +18,8 @@ Application developed with React JS, React Native and NodeJS during Rocketseat's
 
 -   Access the backend directory
 -   Install all dependencies using the command `yarn`
--   Run `yarn dev`
 -   Fill the `.env` file
+-   Run `yarn dev`
 -   Access `http://localhost:3333/`
 
 ### Used technologies
